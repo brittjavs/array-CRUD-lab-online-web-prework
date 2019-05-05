@@ -3,11 +3,11 @@ def create_an_empty_array
   end
 
 def create_an_array
-  ["chocolate", "vanilla", "strawberry", "pistachio"]
+  ice_cream["chocolate", "vanilla", "strawberry", "pistachio"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  ice_cream << ["rocky road"]
 end
 
 def add_element_to_start_of_array(array, element)
